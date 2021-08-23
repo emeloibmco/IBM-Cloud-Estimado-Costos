@@ -33,7 +33,6 @@
 
 ## Referencias :mag:
 * <a href="https://cloud.ibm.com/estimator/review">Estimador de costos</a>.
-* 
 <br />
 
 ## Autores :black_nib:
