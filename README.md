@@ -31,41 +31,41 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 
 2. Configure los campos que se solicitan para realizar la estimación del servicio, de la siguiente manera:
 
-    **Detalles/Details**
-    * ```Nombre/Name```: indique un nombre exclusivo para la *VSI*. 
-    * ```Grupo de recursos/Resource group```: seleccione el grupo de recursos.
-    * ```Ubicación/Location```: indique la región en la cual ubicará la *VSI* que desea estimar.
-    * ```Tipo de servidor virtual/Virtual server type```: seleccione el tipo de servidor virtual.
-    <br />
+       **Detalles/Details**
+       * ```Nombre/Name```: indique un nombre exclusivo para la *VSI*. 
+       * ```Grupo de recursos/Resource group```: seleccione el grupo de recursos.
+       * ```Ubicación/Location```: indique la región en la cual ubicará la *VSI* que desea estimar.
+       * ```Tipo de servidor virtual/Virtual server type```: seleccione el tipo de servidor virtual.
+       <br />
 
-    **Sistema Operativo/Operating System**
-    * ```Imagen/Image```: seleccione el sistema operativo de la *VSI* que desea estimar. Por ejemplo: ```CentOS```.
-    <br />
+       **Sistema Operativo/Operating System**
+       * ```Imagen/Image```: seleccione el sistema operativo de la *VSI* que desea estimar. Por ejemplo: ```CentOS```.
+       <br />
 
-    **Perfil/Profile**
-    * Seleccione el perfil de la *VSI* que desea estimar. Por ejemplo: ```bx2-2x8```
-    * ```Claves SSH/SSH Keys```: seleccione la clave *SSH* si tiene alguna o deje el campo sin seleccionar (esto no afectará la estimación).
-    <br />
+       **Perfil/Profile**
+       * Seleccione el perfil de la *VSI* que desea estimar. Por ejemplo: ```bx2-2x8```
+       * ```Claves SSH/SSH Keys```: seleccione la clave *SSH* si tiene alguna o deje el campo sin seleccionar (esto no afectará la estimación).
+       <br />
 
-    **Grupo de colocación/Placement group**
-    * Deje el campo sin seleccionar.
-    <br />
+       **Grupo de colocación/Placement group**
+       * Deje el campo sin seleccionar.
+       <br />
 
-    **Volumen de arranque/Boot volume**
-    * Por defecto deje un volumen de 100 GB de almacenamiento.
-    <br />
+       **Volumen de arranque/Boot volume**
+       * Por defecto deje un volumen de 100 GB de almacenamiento.
+       <br />
 
-    **Volúmenes de datos/Data volumes**
-    * Puede dejar este campo vacío para realizar la estimación. Si requiere un disco adicional agregue el almacenamiento en el volumen de datos.
-    <br />
+       **Volúmenes de datos/Data volumes**
+       * Puede dejar este campo vacío para realizar la estimación. Si requiere un disco adicional agregue el almacenamiento en el volumen de datos.
+       <br />
 
-    **Redes/Networking**
-    * ```Nube privada virtual/Virtual private cloud```: seleccione la *VPC* en donde se ubica la *VSI*.
-    <br />
+       **Redes/Networking**
+       * ```Nube privada virtual/Virtual private cloud```: seleccione la *VPC* en donde se ubica la *VSI*.
+       <br />
 
-    **Interfaces de red/Network interfaces**
-    * Seleccione la subred en la que trabaja la *VSI* en *VPS*.
-    <br />
+       **Interfaces de red/Network interfaces**
+       * Seleccione la subred en la que trabaja la *VSI* en *VPS*.
+       <br />
 
 3. De click en el botón ```Añadir a estimación/Add to estimate```.
 
