@@ -89,7 +89,7 @@ Para realizar el estimado de un servicio *Databases for PostgreSQL* en el portal
 2. Configure los campos que se solicitan para realizar la estimación del servicio, de la siguiente manera:
 
    **Detalles del servicio/Service Details**
-   * ```Nombre/Service name```: indique un nombre exclusivo para el servicio. 
+   * ```Nombre del servicio/Service name```: indique un nombre exclusivo para el servicio. 
    * ```Grupo de recursos/Resource Group```: seleccione el grupo de recursos.
    * ```Ubicación/Location```: indique la ubicación en la cual se encuentra el servicio que desea estimar.
    <br />
