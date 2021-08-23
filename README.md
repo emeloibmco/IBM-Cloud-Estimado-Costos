@@ -1,7 +1,7 @@
 # IBM Cloud - Estimado de Costos ☁💳
 *IBM Cloud®* cuenta con un estimador de costos, esta calculadora de precios en la nube sirve para configurar los productos de *IBM Cloud®* y generar estimaciones de costos confiables, de esta manera podrá comparar configuraciones, conocer como se determina el precio detallado de un producto y descargar cotizaciones. 
 
-La presente guía pretende generar un resumen de los costos asociados a diferentes productos de *IBM Cloud*:  VSI for VPC,  base de datos PostgreSQL, Block Storgae for VPC y Load Balancer for VPC.
+La presente guía pretende generar un resumen de los costos asociados a diferentes productos de *IBM Cloud*:  VSI for VPC,  base de datos PostgreSQL, Block Storage for VPC y Load Balancer for VPC.
 
 <br />
 
@@ -31,7 +31,7 @@ Para acceder a la herramienta del estimador de costos de *IBM Cloud*, realice lo
 ## Estimado Virtual Server for VPC :computer:
 Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cloud*, siga los pasos que se muestran a continuación:
 
-1. En el catálogo busque el servicio *Virtual Server for VPC*. Para ello filtre el servicio mediante la categoría ```Cálculo/Compute``` y porteriormente de click sobre la opción *Virtual Server for VPC*.
+1. En el catálogo busque el servicio *Virtual Server for VPC*. Para ello, filtre el servicio mediante la categoría ```Cálculo/Compute``` y porteriormente de click sobre la opción *Virtual Server for VPC*.
 
 2. Configure los campos que se solicitan para realizar la estimación del servicio, de la siguiente manera:
 
@@ -78,10 +78,18 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 5. Espere mientras carga la herramienta. Finalmente, podrá visualizar la estimación realizada.
 <br />
 
-<p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/VSI.gif"></p>
+<p align="center"><img width="800" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/VSI.gif"></p>
 <br />
 
 ## Estimado Databases for PostgreSQL :books:
+Para realizar el estimado de un servicio *Databases for PostgreSQL* en el portal de *IBM Cloud*, siga los pasos que se muestran a continuación:
+
+1. En el catálogo busque el servicio. Para ello, filtre el servicio mediante la categoría ```Bases de datos/Databases``` y porteriormente de click sobre la opción *Databases for PostgreSQL*.
+
+2. Configure los campos que se solicitan para realizar la estimación del servicio, de la siguiente manera:
+<br />
+
+<p align="center"><img width="800" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/PostgreSQL.gif"></p>
 <br />
 
 ## Estimado Block Storage for VPC :package:
@@ -117,7 +125,7 @@ Para realizar el estimado de *Block Storage for VPC* en el portal de *IBM Cloud*
 7. Finalmente observe un resumen del producto que acabo de configurar con el costo estimado.
 <br />
 
-<p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/blockstorage.gif"></p>
+<p align="center"><img width="800" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/blockstorage.gif"></p>
 <br />
 
 ## Estimado Load Balancer for VPC :cloud:
