@@ -95,7 +95,7 @@ Para realizar el estimado de un servicio *Databases for PostgreSQL* en el portal
    <br />
    
    **Asignación de recursos/Resource Allocation**
-   * ```Plantillas/Templates```: puede seleccionar alguna de las plantillas establecida por defecto si lo desea.
+   * ```Plantillas/Templates```: si lo desea, puede seleccionar alguna de las plantillas establecida por defecto.
    * ```Personalizado/Custom```: puede configurar de forma personalizada el servicio. Por ejemplo: memoria RAM de 4 GB, disco de 100 GB y 0 núcleos dedicados. Esta es la opción        elegida para este caso.
 
    Deje los demás campos con los valores que se establecen por defecto.
