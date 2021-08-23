@@ -116,7 +116,7 @@ Para realizar el estimado de un servicio *Databases for PostgreSQL* en el portal
 Para realizar el estimado de *Block Storage for VPC* en el portal de *IBM Cloud*, se debe realizar lo siguiente:
 <br />
 
-1. Busque el servicio *Block Storage for VPC*. Para ello filtre el servicio mediante la categoría Almacenamiento/Storage y posteriormente de click sobre la opción *Block Storage for VPC*.
+1. Busque el servicio *Block Storage for VPC* en el catalogo. Para esto filtre el servicio mediante la categoría Almacenamiento/Storage y posteriormente de click sobre la opción *Block Storage for VPC*.
 <br />
 
 2. Una vez cargue la nueva ventana complete la configuración del servicio de la siguiente manera:
@@ -149,7 +149,26 @@ Para realizar el estimado de *Block Storage for VPC* en el portal de *IBM Cloud*
 <br />
 
 ## Estimado Load Balancer for VPC :cloud:
+Para realizar el estimado de un servicio *Load Balancer for VPC* en el portal de *IBM Cloud*, siga los pasos que se muestran a continuación:
 <br />
+
+1. Busque el servicio *Load Balancer for VPC*. Para ello filtre el servicio mediante la categoría ```Gestión de redes/Networking``` y posteriormente de click sobre la opción *Load Balancer for VPC*.
+<br />
+
+2. Configure los campos que se solicitan para realizar la estimación del servicio, de la siguiente manera:
+**Detalles/Details**:
+*```Nombre/Name```: indique un nombre para el servicio a estimar.
+* ```Grupo de recursos/Resource Group```: seleccione el grupo de recursos.
+* ```Etiquetas/Tags```: si lo desea asigne etiquetas al servicio que desea estimar.
+* ```balanceador de carga/Load balancer```: seleccione la opcion de balanceador de carga que desee.
+* ```Ubicación/Location```: seleccione la ubicación en la cual desplegará el servicio.
+   <br />
+
+
+3. De click en el botón ```Añadir a estimación/Add to estimate```.
+
+ 
+
 
 ## Acceso al resumen de estimados :clipboard:
 <br />
