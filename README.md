@@ -157,20 +157,33 @@ Para realizar el estimado de un servicio *Load Balancer for VPC* en el portal de
 
 2. Configure los campos que se solicitan para realizar la estimación del servicio, de la siguiente manera:
 
-**Detalles/Details**:
-
-*```Nombre/Name```: indique un nombre para el servicio a estimar.
-* ```Grupo de recursos/Resource Group```: seleccione el grupo de recursos.
-* ```Etiquetas/Tags```: si lo desea asigne etiquetas al servicio que desea estimar.
-* ```balanceador de carga/Load balancer```: seleccione la opcion de balanceador de carga que desee.
-* ```Ubicación/Location```: seleccione la ubicación en la cual desplegará el servicio.
+   **Detalles/Details**
+   * ```Nombre/Name```: indique un nombre para el servicio. 
+   * ```Grupo de recursos/Resource group```: seleccione el grupo de recursos.
+   * ```Etiquetas/Tags```: si lo desea asigne etiquetas al servicio que desea estimar.
+   * ```balanceador de carga/Load balancer```: seleccione la opcion de balanceador de carga que desee.
+   * ```Ubicación/Location```: seleccione la ubicación en la cual desplegará el servicio.
+   * ```Virtual Private Cloud/VPC```: seleccione la VPC sobre la cual desee desplegar el servicio.
    <br />
 
-
 3. De click en el botón ```Añadir a estimación/Add to estimate```.
+  <br />
 
+4. A continuación complete los campos de uso esperado para ver los detalles de costos del servicio, de la siguiente manera:
+
+   * ```Uso del servicio en horas/Service usage in hours```
+   * ```Tráfico de datos a través del balanceador de carga en GB/Data traffic through the load balancer in GB```
+   * ```IP flotantes reservadas/Reserved floating IPs```
+   <br />
+5. A continuación, elija ```Calcular costo/ Calculate cost``` > ```Guardar/Save```.
+<br />
+
+6. Finalmente podrá revisar la estimación del servicio haciendo click en  ```Revisar estimado/ Review estimate```. 
+<br />
+
+<p align="center"><img width="800" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/LoadBalancer.gif"></p>
+<br />
  
-
 
 ## Acceso al resumen de estimados :clipboard:
 <br />
