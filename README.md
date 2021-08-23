@@ -88,7 +88,7 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 Para realizar el estimado de *Block Storage for VPC* en el portal de *IBM Cloud*, se debe realizar lo siguiente:
 <br />
 
-1. Busque el servicio Block Storage for VPC. Para ello filtre el servicio mediante la categoría Almacenamiento/Storage y posteriormente de click sobre la opción Block Storage for VPC.
+1. Busque el servicio *Block Storage for VPC*. Para ello filtre el servicio mediante la categoría Almacenamiento/Storage y posteriormente de click sobre la opción *Block Storage for VPC*.
 <br />
 
 2. Una vez cargue la nueva ventana complete la configuración del servicio de la siguiente manera:
@@ -117,7 +117,7 @@ Para realizar el estimado de *Block Storage for VPC* en el portal de *IBM Cloud*
 7. Finalmente observe un resumen del producto que acabo de configurar con el costo estimado.
 <br />
 
-<p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/objectstorage.gif"></p>
+<p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/blockstorage.gif"></p>
 <br />
 
 ## Estimado Load Balancer for VPC :cloud:
