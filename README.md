@@ -17,6 +17,9 @@
 <br />
 
 ## Estimado Virtual Server for VPC :computer:
+Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cloud*, se debe realizar lo siguiente:
+
+1. Dentro de su cuenta de *IBM Cloud* acceda al ```Estimador de costos```
 <br />
 
 ## Estimado Databases for PostgreSQL :books:
