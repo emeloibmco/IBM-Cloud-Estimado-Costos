@@ -64,11 +64,11 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
    <br />
 
    **Redes/Networking**
-   * ```Nube privada virtual/Virtual private cloud```: seleccione la *VPC* en donde se ubica la *VSI*.
+   * ```Nube privada virtual/Virtual private cloud```: seleccione la *VPC* en donde se ubicará la *VSI*.
    <br />
 
    **Interfaces de red/Network interfaces**
-   * Seleccione la subred en la que trabaja la *VSI* en *VPS*.
+   * Seleccione la subred en la que trabaja la *VSI* en *VPC*.
    <br />
 
 3. De click en el botón ```Añadir a estimación/Add to estimate```.
