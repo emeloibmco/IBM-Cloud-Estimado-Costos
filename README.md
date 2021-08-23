@@ -1,4 +1,8 @@
 # IBM Cloud - Estimado de Costos ☁💳
+*IBM Cloud®* cuenta con un estimador de costos, esta calculadora de precios en la nube sirve para configurar los productos de *IBM Cloud®* y generar estimaciones de costos confiables, de esta manera podrá compara configuraciones, conocer como se dertermina el precio detallado de un producto y descargar cotizaciones. 
+
+La presente guía pretende generar un resumen de los costos asociados a diferentes productos de *IBM Cloud*:  VSI for VPC,  base de datos PostgreSQL, Block Storgae for VPC y Load Balancer for VPC.
+
 <br />
 
 ## Índice  📰
@@ -78,9 +82,36 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 <br />
 
 ## Estimado Databases for PostgreSQL :books:
+Para realizar el estimado de *Block Storage for VPC* en el portal de *IBM Cloud*, se debe realizar lo siguiente:
+
+1. Busque el servicio Block Storage for VPC. Para ello filtre el servicio mediante la categoría Almacenamiento/Storage y posteriormente de click sobre la opción Block Storage for VPC.
+<br />
+2. Una vez cargue la nueva ventana complete la configuración del servicio de la siguiente manera:
+* ```Ubicación/Location```: seleccione la ubicación en la cual desplegará el servicio.
+
+**Detalles/Details**: 
+* ```Método de Facturacción/Billing Method```: seleccione el método de facturación que desea utilizar ya se Por horas/For hours o Por meses/For month.
+* ```Tamaño/Size```: especifique el tamaño, recuerde que debe ser un valor entre 20 y 12000 GB.
+* ```Espacio de Instantáneas/Snapshot Space```: especifique el espacio de las instantáneas.
+* ```Tipo de SO/SO Type```: determine el tipo de sistema operativo que va utilizar.
+
+**Perfil de IOPS/IOPS Profile**: 
+* ```Resistencia (niveles)/Resistance (levels)```: seleccione el nivel de resistencia en IOPS/GB.
+* ```Rendimiento (personalizadas)/Performance (custom)```: Deje el valor por defecto (100).
+<br />
+3. Cuando ya tenga todos los campos configurados de click en el botón ```Añadir a estimación/Add to estimate```. Asegurese de que se encuentre con el tamaño que eligio previamente.
+<br />
+4. A continuación, elija ```Calcular costo/ Calculate cost``` > ```Guardar/Save```.
+<br />
+5. Para revisar que la estimación quedo guardada, haga click en ```Revisar estimado/ Review estimate```. 
+6. <br />
+7. Finalmente observe un resumen del producto que acabo de configurar con el costo estimado.
+<br />
+<p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/objectstorage.gif"></p>
 <br />
 
 ## Estimado Block Storage for VPC :package:
+
 <br />
 
 ## Estimado Load Balancer for VPC :cloud:
