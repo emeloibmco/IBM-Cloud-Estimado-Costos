@@ -19,7 +19,7 @@
 ## Estimado Virtual Server for VPC :computer:
 Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cloud*, se debe realizar lo siguiente:
 
-1. Dentro de su cuenta de *IBM Cloud* acceda al ```Estimador de costos``` dando click en la pestaña <img width="30" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/Estimador.PNG"> o accediendo mediante el enlace de <a href="https://cloud.ibm.com/estimator/review">Estimador de costos</a>.
+1. Dentro de su cuenta de *IBM Cloud* acceda al ```Estimador de costos``` dando click en la pestaña <a href="https://cloud.ibm.com/estimator/review"><img width="30" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/Estimador.PNG"></a>.
 <br />
 
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/VSI.gif"></p>
