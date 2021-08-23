@@ -28,7 +28,7 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 4. Configure los campos que se solicitan para realizar la estimación del servicio, de la siguiente manera:
 
 **Detalles/Details**
-* ```Nombre/Name```: indique un nombre exclusivo para la *VSI*. Para realizar la estimación no es obligatorio llenar este campo.
+* ```Nombre/Name```: indique un nombre exclusivo para la *VSI*. 
 * ```Grupo de recursos/Resource group```: seleccione el grupo de recursos.
 * ```Ubicación/Location```: indique la región en la cual ubicará la *VSI* que desea estimar.
 * ```Tipo de servidor virtual/Virtual server type```: seleccione el tipo de servidor virtual.
