@@ -45,6 +45,9 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 **Perfil/Profile**
 * Seleccione el perfil de la *VSI* que desea estimar. Por ejemplo: ```bx2-2x8```
 * ```Claves SSH/SSH Keys```: seleccione la clave *SSH* si tiene alguna o deje el campo sin seleccionar (esto no afectará la estimación).
+<br />
+
+**Grupo de colocación/**
 * 
 <br />
 
