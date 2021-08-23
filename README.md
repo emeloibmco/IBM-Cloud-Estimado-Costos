@@ -32,7 +32,8 @@
 <br />
 
 ## Referencias :mag:
-* <a href="https://cloud.ibm.com/docs/vpc?topic=vpc-getting-started">Getting started with Virtual Private Cloud (VPC)</a>.
+* <a href="https://cloud.ibm.com/estimator/review">Estimador de costos</a>.
+* 
 <br />
 
 ## Autores :black_nib:
