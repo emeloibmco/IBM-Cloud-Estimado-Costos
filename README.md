@@ -95,7 +95,7 @@ Para realizar el estimado de un servicio *Databases for PostgreSQL* en el portal
    <br />
    
    **Asignación de recursos/Resource Allocation**
-   * ```Plantillas/Templates```: si lo desea, puede seleccionar alguna de las plantillas establecida por defecto.
+   * ```Plantillas/Templates```: si lo desea, puede seleccionar alguna de las plantillas establecidas por defecto.
    * ```Personalizado/Custom```: puede configurar de forma personalizada el servicio. Por ejemplo: memoria RAM de 4 GB, disco de 100 GB y 0 núcleos dedicados. Esta es la opción        elegida para este caso.
 
    Deje los demás campos con los valores que se establecen por defecto.
@@ -104,9 +104,9 @@ Para realizar el estimado de un servicio *Databases for PostgreSQL* en el portal
 
 3. De click en el botón ```Añadir a estimación/Add to estimate```.
 
-4. Posteriormente, observará una ventana que indica información breve sobre el costo de la *VSI* estimada. De click en el botón ```Revisar estimación/Review estimate```.
+4. Posteriormente, observará una ventana que indica información breve sobre el costo del servicio *Databases for PostgreSQL* estimado. De click en el botón ```Revisar estimación/Review estimate```.
 
-5. Espere mientras carga la herramienta. Finalmente, podrá visualizar la estimación realizada al servicio *Databases for PostgreSQL*.
+5. Espere mientras carga la herramienta. Finalmente, podrá visualizar la estimación realizada del servicio.
 <br />
 
 <p align="center"><img width="800" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/PostgreSQL.gif"></p>
