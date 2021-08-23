@@ -44,7 +44,7 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 
 **Perfil/Profile**
 * Seleccione el perfil de la *VSI* que desea estimar. Por ejemplo: ```bx2-2x8```
-* 
+* ```Claves SSH/SSH Keys```: seleccione la clave
 <br />
 
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/VSI.gif"></p>
