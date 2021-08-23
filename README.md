@@ -187,6 +187,18 @@ Para realizar el estimado de un servicio *Load Balancer for VPC* en el portal de
 
 ## Acceso al resumen de estimados :clipboard:
 <br />
+1. para acceder al resumen de estimados desde el *Panel de control/Dashboard* de *IBM Cloud* seleccione el icono de *estimador de costos/Costs estimator*
+    <br />
+    
+2. Una vez en el estimador de costos puede ver el resumen de estimados generado.
+    <br />
+    
+3. si desea descargar este resumen puede hacerlo dandole click al boton ```Descargar/Download```y seleccionando el formato que desee.
+    <br />
+    
+<p align="center"><img width="800" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/cost.gif"></p>
+<br 
+
 
 ## Referencias :mag:
 * <a href="https://cloud.ibm.com/estimator/review">Estimador de costos</a>.
