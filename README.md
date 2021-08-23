@@ -21,7 +21,7 @@
 Para acceder a la herramienta del estimador de costos de *IBM Cloud*, realice lo siguiente:
 1. Dentro de su cuenta de *IBM Cloud* acceda al ```Estimador de costos/Cost estimator``` dando click en la pestaña <a href="https://cloud.ibm.com/estimator/review"><img width="25" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/Estimador.PNG"></a>, que se ubica en la parte superior derecha del portal. 
 
-2. Una vez cargue la herramienta para realizar la estimación de costos, de click en el botón ```Ir al catálogo/Go to catalog``` y allí busque los respectivos servicios que desea estimar.
+2. Una vez cargue la herramienta, de click en el botón ```Ir al catálogo/Go to catalog``` y allí busque los respectivos servicios que desea estimar.
 <br />
 
 ## Estimado Virtual Server for VPC :computer:
