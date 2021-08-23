@@ -156,6 +156,7 @@ Para realizar el estimado de un servicio *Load Balancer for VPC* en el portal de
 <br />
 
 2. Configure los campos que se solicitan para realizar la estimación del servicio, de la siguiente manera:
+<br />
 **Detalles/Details**:
 *```Nombre/Name```: indique un nombre para el servicio a estimar.
 * ```Grupo de recursos/Resource Group```: seleccione el grupo de recursos.
