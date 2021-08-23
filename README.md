@@ -99,6 +99,7 @@ Para realizar el estimado de un servicio *Databases for PostgreSQL* en el portal
    * ```Personalizado/Custom```: puede configurar de forma personalizada el servicio. Por ejemplo: memoria RAM de 4 GB, disco de 100 GB y 0 núcleos dedicados. Esta es la opción        elegida para este caso.
 
    Deje los demás campos con los valores que se establecen por defecto.
+   
    <br />
 
 3. De click en el botón ```Añadir a estimación/Add to estimate```.
