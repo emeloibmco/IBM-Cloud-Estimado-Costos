@@ -34,7 +34,7 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 * ```Tipo de servidor virtual/Virtual server type```: seleccione el tipo de servidor virtual.
 <br />
 
-**Sistema Operativo/OS**
+**Sistema Operativo/Operating System**
 * ```Imagen/Image```: seleccione el sistema operativo de la *VSI* que desea estimar.
 <br />
 
