@@ -75,7 +75,7 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 
 4. Posteriormente, observará una ventana que indica información breve sobre el costo de la *VSI* estimada. De click en el botón ```Revisar estimación/Review estimate```.
 
-5. Espere mientras carga la herramienta. Finalmente, podrá visualizar la estimación realizada.
+5. Espere mientras carga la herramienta. Finalmente, podrá visualizar la estimación realizada al servicio *VSI for VPC*.
 <br />
 
 <p align="center"><img width="800" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/VSI.gif"></p>
@@ -87,6 +87,25 @@ Para realizar el estimado de un servicio *Databases for PostgreSQL* en el portal
 1. En el catálogo busque el servicio. Para ello, filtre el servicio mediante la categoría ```Bases de datos/Databases``` y porteriormente de click sobre la opción *Databases for PostgreSQL*.
 
 2. Configure los campos que se solicitan para realizar la estimación del servicio, de la siguiente manera:
+
+   **Detalles del servicio/Service Details**
+   * ```Nombre/Service name```: indique un nombre exclusivo para el servicio. 
+   * ```Grupo de recursos/Resource Group```: seleccione el grupo de recursos.
+   * ```Ubicación/Location```: indique la ubicación en la cual se encuentra el servicio que desea estimar.
+   <br />
+   
+   **Asignación de recursos/Resource Allocation**
+   * ```Plantillas/Templates```: puede seleccionar alguna de las plantillas establecida por defecto si lo desea.
+   * ```Personalizado/Custom```: puede configurar de forma personalizada el servicio. Por ejemplo: memoria RAM de 4 GB, disco de 100 GB y 0 núcleos dedicados. Esta es la opción        elegida para este caso.
+
+   Deje los demás campos con los valores que se establecen por defecto.
+   <br />
+
+3. De click en el botón ```Añadir a estimación/Add to estimate```.
+
+4. Posteriormente, observará una ventana que indica información breve sobre el costo de la *VSI* estimada. De click en el botón ```Revisar estimación/Review estimate```.
+
+5. Espere mientras carga la herramienta. Finalmente, podrá visualizar la estimación realizada al servicio *Databases for PostgreSQL*.
 <br />
 
 <p align="center"><img width="800" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/PostgreSQL.gif"></p>
