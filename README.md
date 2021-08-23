@@ -39,11 +39,12 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 <br />
 
 **Sistema Operativo/Operating System**
-* ```Imagen/Image```: seleccione el sistema operativo de la *VSI* que desea estimar.
+* ```Imagen/Image```: seleccione el sistema operativo de la *VSI* que desea estimar. Por ejemplo: ```CentOS```.
 <br />
 
 **Perfil/Profile**
-* Seleccione el perfil de la *VSI* que desea estimar.
+* Seleccione el perfil de la *VSI* que desea estimar. Por ejemplo: ```bx2-2x8```
+* 
 <br />
 
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/VSI.gif"></p>
