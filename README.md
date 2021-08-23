@@ -47,9 +47,27 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 * ```Claves SSH/SSH Keys```: seleccione la clave *SSH* si tiene alguna o deje el campo sin seleccionar (esto no afectará la estimación).
 <br />
 
-**Grupo de colocación/**
-* 
+**Grupo de colocación/Placement group**
+* Deje el campo sin seleccionar.
 <br />
+
+**Volumen de arranque/Boot volume**
+* Por defecto deje un volumen de 100 GB de almacenamiento.
+<br />
+
+**Volúmenes de datos/Data volumes**
+* Puede dejar este campo vacío para realizar la estimación. Si requiere un disco adicional agregue el almacenamiento en el volumen de datos.
+<br />
+
+**Redes/Networking**
+* ```Nube privada virtual/Virtual private cloud```: seleccione la *VPC* en donde se ubica la *VSI*.
+<br />
+
+**Interfaces de red/Network interfaces**
+* Seleccione la subred en la que trabaja la *VSI* en *VPS*.
+<br />
+
+3. De click en el botón ```Añadir a estimación/Add to estimate```.
 
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/VSI.gif"></p>
 <br />
