@@ -69,6 +69,11 @@ Para realizar el estimado de un *Virtual Server for VPC* en el portal de *IBM Cl
 
 3. De click en el botón ```Añadir a estimación/Add to estimate```.
 
+4. Posteriormente, observará una ventana que indica información breve sobre el costo de la *VSI* estimada. De click en el botón ```Revisar estimación/Review estimate```.
+
+5. Espere mientras carga la herramienta. Finalmente, podrá visualizar la estimación realizada.
+<br />
+
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Estimado-Costos/blob/main/Imagenes/VSI.gif"></p>
 <br />
 
